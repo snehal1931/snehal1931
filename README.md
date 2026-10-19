@@ -84,7 +84,11 @@ I believe contributing to open source is one of the best ways to learn software 
 </p>
 
 <p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehal1931&bg_color=0d1117&color=58a6ff&line=39d353&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=snehal1931&bg_color=0d1117&color=58a6ff&line=39d353&point=ffffff&area=true&hide_border=true"
+    alt="Snehal's GitHub Activity Graph"
+    width="100%"
+  />
 </p>
 
 ---

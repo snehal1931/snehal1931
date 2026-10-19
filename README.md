@@ -149,6 +149,7 @@ I believe open source is a great way to learn from real-world codebases, collabo
 ### 📈 Contribution Activity
 
 
+
 ### 📈 Contribution Activity
 
 ![Snehal's GitHub contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=snehal1931&theme=github-compact)

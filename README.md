@@ -148,12 +148,11 @@ I believe open source is a great way to learn from real-world codebases, collabo
     src="
 ### 📈 Contribution Activity
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=snehal1931&theme=github-compact)
 
-    alt="Snehal's GitHub contribution activity graph"
-    width="100%"
-  />
-</p>
+### 📈 Contribution Activity
+
+![Snehal's GitHub contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=snehal1931&theme=github-compact)
+
 
 <p align="center">
   <sub>If an external statistics card is temporarily unavailable, try refreshing later.</sub>

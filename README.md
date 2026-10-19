@@ -2,14 +2,14 @@
 
 # 👋 Hi, I'm Snehal Patil
 
-### AIML Student • Software Development • Machine Learning • Open Source
+### AI & Machine Learning Student | Software Development | Open Source
 
-Building practical software, exploring intelligent systems, and learning by contributing.
+Building practical software, exploring intelligent systems, and learning through open-source contributions.
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Machine Learning](https://img.shields.io/badge/Machine_Learning-39D353?style=for-the-badge&logo=scikitlearn&logoColor=black)](https://scikit-learn.org/)
-[![Open Source](https://img.shields.io/badge/Open_Source-Contributor-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snehal1931)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-39D353?style=for-the-badge&logo=scikitlearn&logoColor=black)
+![Open Source](https://img.shields.io/badge/Open_Source-Contributor-2EA44F?style=for-the-badge&logo=github&logoColor=white)
 
 [GitHub](https://github.com/snehal1931) · [Repositories](https://github.com/snehal1931?tab=repositories)
 
@@ -22,9 +22,9 @@ Building practical software, exploring intelligent systems, and learning by cont
 - 🎓 Third-year B.Tech student specializing in **Artificial Intelligence and Machine Learning** at Walchand College of Engineering, Sangli.
 - 💻 Exploring software engineering through Java, Python, SQL, and backend development.
 - 🤖 Interested in machine learning, data analytics, and practical AI applications.
-- 🌍 Contributing to open source and learning how real-world projects are developed, tested, and maintained.
+- 🌍 Contributing to open source and learning from real-world codebases.
 - 🛠️ Building projects that combine software development, data, and problem-solving.
-- 📚 Continuously strengthening my foundations in DSA, databases, and software engineering.
+- 📚 Strengthening my foundations in DSA, databases, and software engineering.
 
 > Learn by building. Improve by contributing. Grow by staying curious.
 
@@ -36,19 +36,19 @@ Building practical software, exploring intelligent systems, and learning by cont
 
 `Java` · `Spring Boot` · `REST APIs` · `SQL` · `MySQL` · `Git`
 
-Developing backend applications while strengthening my understanding of object-oriented programming, databases, and maintainable code.
+Developing backend applications while improving my understanding of object-oriented programming, databases, and maintainable code.
 
 ### 🤖 AI, Machine Learning & Data
 
 `Python` · `Machine Learning` · `Data Analytics` · `Tableau` · `Power BI`
 
-Exploring data-driven solutions, model evaluation, and the practical applications of AI and analytics.
+Exploring data-driven solutions, model evaluation, and practical applications of AI and analytics.
 
 ### 🌐 Applications & Systems
 
 `Flutter` · `FastAPI` · `MongoDB` · `MySQL`
 
-Interested in building useful applications, including systems designed around real-world constraints such as offline availability.
+Interested in useful applications and systems designed around real-world constraints, including limited connectivity.
 
 ### 🌍 Open Source
 
@@ -98,57 +98,61 @@ Learning to navigate existing codebases, understand maintainer feedback, and con
 
 **`DATA QUALITY` · `MACHINE LEARNING` · `DATA DRIFT`**
 
-Developing a platform focused on monitoring data quality and identifying changes in data distributions that may affect downstream analytics or machine learning systems.
+A project focused on monitoring data quality and identifying distribution changes that may affect analytics and machine learning workflows.
 
-- 🔎 Focused on data quality checks and monitoring.
-- 📊 Exploring ways to identify changes in data distributions.
-- 🧪 Building a foundation for more reliable data and ML workflows.
+- 🔎 Exploring data quality checks and monitoring.
+- 📊 Working toward identifying changes in data distributions.
+- 🧪 Focused on more reliable data and ML workflows.
 
-[View my repositories](https://github.com/snehal1931?tab=repositories)
+[Explore my repositories](https://github.com/snehal1931?tab=repositories)
 
-*Project in progress. Update this link with the dedicated repository when ready.*
+*Update this link with the direct SchemaSentinel repository URL.*
 
 ### 2. ResQNet — Offline Disaster Response System
 
 **`FLUTTER` · `FASTAPI` · `MONGODB` · `OFFLINE-FIRST`**
 
-A disaster-response application concept designed to support communication and coordination when conventional connectivity is limited.
+A disaster-response application designed around communication and coordination when conventional connectivity is limited.
 
 - 📱 Flutter-based application.
 - ⚙️ FastAPI backend with MongoDB.
 - 🆘 Focus on offline disaster-response workflows and nearby communication.
 
-[Explore repositories](https://github.com/snehal1931?tab=repositories)
+[Explore my repositories](https://github.com/snehal1931?tab=repositories)
+
+*Update this link with the direct ResQNet repository URL.*
 
 ### 3. EDCMS — Java-Based Management System
 
 **`JAVA 21` · `SPRING BOOT` · `MYSQL` · `H2`**
 
-A backend application built around Java and Spring Boot, with database integration.
+A backend application built with Java and Spring Boot, with database integration.
 
 - ☕ Java 21 and Spring Boot.
 - 🗄️ MySQL and H2 database support.
 - 🧩 Exploring structured application development and backend design.
 
-[Explore repositories](https://github.com/snehal1931?tab=repositories)
+[Explore my repositories](https://github.com/snehal1931?tab=repositories)
+
+*Update this link with the direct EDCMS repository URL.*
 
 ---
 
 ## 🌍 Open Source Contributions
 
-I believe contributing to open source is a valuable way to learn software engineering beyond tutorials: by reading existing code, understanding issues, writing tests, and collaborating with maintainers.
+I believe open source is a valuable way to learn software engineering beyond tutorials: by reading existing code, understanding issues, writing tests, and collaborating with maintainers.
 
 ### ✅ Lastgreen
 
 **Contribution:** Added optional terminal colours while respecting the `NO_COLOR` environment variable.
 
-- 🔧 Worked on a focused code improvement.
+- 🔧 Implemented a focused code improvement.
 - 🧪 Ran the project's test suite and code-quality checks.
 - 🤝 Pull request reviewed and merged by the maintainer.
 
-[View my merged pull request](https://github.com/lastgreen-dev/lastgreen/pulls?q=is%3Apr)
+[Find my Lastgreen pull requests](https://github.com/lastgreen-dev/lastgreen/pulls?q=is%3Apr)
 
-*If the repository or pull-request link changes, replace this with the direct URL to your merged PR.*
+*Replace this with the direct URL to your merged pull request when available.*
 
 ### Contribution Interests
 
@@ -198,21 +202,19 @@ Engineering Practices
 
 </div>
 
-*Stats are provided by external services and may occasionally be unavailable. Language statistics reflect repository contents, not necessarily proficiency.*
+*Stats cards use external services and may occasionally be unavailable. Language statistics describe repository contents, not proficiency.*
 
 ---
 
-## 🐍 Contribution Snake (Optional)
-
-To display a contribution snake, first configure a GitHub Actions workflow that generates `output/github-contribution-grid-snake-dark.svg` in your profile repository. Then use:
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/snehal1931/snehal1931/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
+<img src="https://raw.githubusercontent.com/snehal1931/snehal1931/output/github-snake-dark.svg" alt="Snehal's GitHub contribution snake" width="100%" />
 
 </div>
 
-*This image will appear only after the workflow has successfully generated and published the SVG.*
+*This section requires the GitHub Actions workflow below. The image will appear after the workflow successfully generates and publishes the SVG.*
 
 ---
 

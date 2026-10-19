@@ -1,38 +1,105 @@
-# Hi there, I'm Snehal Patil 👋[cite: 1]
+# Hey, I'm Snehal 👋
 
-### 🚀 AIML Student at WCE, Sangli[cite: 1]
-Highly motivated Artificial Intelligence (AI) and Machine Learning (ML) undergraduate with a strong foundation in Data Structures & Algorithms, Machine Learning, and Software Development[cite: 1]. Proficient in Python and Java, with proven experience developing AI/ML projects and solving over 500 competitive programming problems[cite: 1]. Seeking to leverage analytical and technical skills in a challenging Data Analyst or AI/ML role[cite: 1].
+### B.Tech AIML Student | Developer | Open-Source Contributor
 
----
-### 🛠️ Tech Stack & Skills
+I'm a third-year B.Tech student in **Artificial Intelligence & Machine Learning at Walchand College of Engineering, Sangli**.
 
-<!-- Languages -->
-<img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white" alt="Java" />[cite: 1]
-<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python" />[cite: 1]
-<img src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white" alt="SQL" />[cite: 1]
+I enjoy solving problems, exploring software engineering, building practical AI/ML projects, and contributing to open source. Currently strengthening my foundations in **Java, DSA, backend development, and machine learning**.
 
-<!-- ML & Data Science -->
-<img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white" alt="NumPy" />[cite: 1]
-<img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white" alt="Pandas" />[cite: 1]
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />[cite: 1]
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white" alt="TensorFlow" />[cite: 1]
-<img src="https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=tableau&logoColor=white" alt="Tableau" />[cite: 1]
-
-<!-- Tools -->
-<img src="https://img.shields.io/badge/Git-E44D26?style=plastic&logo=git&logoColor=white" alt="Git" />[cite: 1]
-<img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" alt="GitHub" />[cite: 1]
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white" alt="VS Code" />[cite: 1]
+- 🔭 Building: **SchemaSentinel** — an intelligent data quality and drift monitoring platform
+- 🌱 Learning: Data Structures & Algorithms, Java, Spring Boot, and ML
+- 🤝 Exploring open-source projects and meaningful contributions
+- 🎯 Goal: Become a well-rounded software engineer with strong AI/ML foundations
 
 ---
 
-### 🍁 Open Source Contributions
+## ⚡ Tech Stack
 
-*   **Hacktoberfest 2025**[cite: 1]
-    *   Successfully contributed to open-source repositories by resolving issues and merging quality pull requests (PRs)[cite: 1].
-    *   <img src="https://img.shields.io/badge/Hacktoberfest-2025-FF5A5F?style=plastic&logo=hacktoberfest&logoColor=white" alt="Hacktoberfest" />[cite: 1]
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**AI / ML & Data**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+**Development Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### 📈 Contribution Stats
-<!-- Yeh card aapke saare open-source contributions aur commits ka graph dikhaega -->
-![Snehal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark)
+## 🚀 Featured Projects
+
+### SchemaSentinel
+**Intelligent Data Quality & Drift Monitoring Platform**
+
+Building a platform focused on detecting data quality issues and monitoring changes in data distributions.
+
+`Python` · `Data Quality` · `Machine Learning`
+
+### ResQNet
+**Offline Disaster-Response Network**
+
+A disaster-response project exploring offline communication and coordination using Flutter, FastAPI, and MongoDB.
+
+`Flutter` · `FastAPI` · `MongoDB`
+
+### EDCMS
+**Employee Data & Management System**
+
+A Java-based backend project using Spring Boot and database technologies.
+
+`Java 21` · `Spring Boot` · `MySQL`
+
+---
+
+## 🌍 Open Source
+
+I believe contributing to open source is one of the best ways to learn software engineering in real-world codebases.
+
+- Contributed to **lastgreen**, including a merged improvement for optional terminal colours that respects `NO_COLOR`.
+- Exploring documentation, bug fixes, testing, and maintainability improvements across open-source repositories.
+
+[![GitHub](https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/snehal1931?tab=repositories)
+
+---
+
+## 📊 GitHub Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=snehal1931&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehal1931&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=snehal1931&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehal1931&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/snehal1931">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Learning by building. Growing by contributing. Improving one commit at a time.</i>
+</p>

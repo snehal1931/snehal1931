@@ -145,7 +145,11 @@ I believe open source is a great way to learn from real-world codebases, collabo
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=snehal1931&bg_color=0d1117&color=58a6ff&line=39d353&point=ffffff&area=true&hide_border=true"
+    src="
+### 📈 Contribution Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=snehal1931&theme=github-compact)
+
     alt="Snehal's GitHub contribution activity graph"
     width="100%"
   />

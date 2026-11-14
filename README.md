@@ -189,20 +189,7 @@ Engineering Practices
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=snehal1931&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=39d353&text_color=c9d1d9" alt="Snehal's GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehal1931&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Languages in Snehal's public repositories" />
-
-<img src="https://streak-stats.demolab.com/?user=snehal1931&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
-
----
 
 ## 🐍 Contribution Snake
 

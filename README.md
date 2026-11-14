@@ -104,9 +104,8 @@ A project focused on monitoring data quality and identifying distribution change
 - 📊 Working toward identifying changes in data distributions.
 - 🧪 Focused on more reliable data and ML workflows.
 
-[Explore my repositories](https://github.com/snehal1931?tab=repositories)
+[Explore my repositories](https://github.com/snehal1931/SchemaSentinel)
 
-*Update this link with the direct SchemaSentinel repository URL.*
 
 ### 2. ResQNet — Offline Disaster Response System
 
@@ -118,9 +117,9 @@ A disaster-response application designed around communication and coordination w
 - ⚙️ FastAPI backend with MongoDB.
 - 🆘 Focus on offline disaster-response workflows and nearby communication.
 
-[Explore my repositories](https://github.com/snehal1931?tab=repositories)
+[Explore my repositories](https://github.com/snehal1931/ResQNet)
 
-*Update this link with the direct ResQNet repository URL.*
+
 
 ### 3. EDCMS — Java-Based Management System
 
@@ -132,9 +131,9 @@ A backend application built with Java and Spring Boot, with database integration
 - 🗄️ MySQL and H2 database support.
 - 🧩 Exploring structured application development and backend design.
 
-[Explore my repositories](https://github.com/snehal1931?tab=repositories)
+[Explore my repositories](https://github.com/snehal1931/engineering-component-management-system)
 
-*Update this link with the direct EDCMS repository URL.*
+
 
 ---
 
@@ -152,7 +151,7 @@ I believe open source is a valuable way to learn software engineering beyond tut
 
 [Find my Lastgreen pull requests](https://github.com/lastgreen-dev/lastgreen/pulls?q=is%3Apr)
 
-*Replace this with the direct URL to your merged pull request when available.*
+
 
 ### Contribution Interests
 
@@ -202,7 +201,6 @@ Engineering Practices
 
 </div>
 
-*Stats cards use external services and may occasionally be unavailable. Language statistics describe repository contents, not proficiency.*
 
 ---
 
@@ -214,7 +212,6 @@ Engineering Practices
 
 </div>
 
-*This section requires the GitHub Actions workflow below. The image will appear after the workflow successfully generates and publishes the SVG.*
 
 ---
 

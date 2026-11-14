@@ -191,16 +191,7 @@ Engineering Practices
 
 
 
-## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/snehal1931/snehal1931/output/github-snake-dark.svg" alt="Snehal's GitHub contribution snake" width="100%" />
-
-</div>
-
-
----
 
 ## 🎯 What's Next
 
